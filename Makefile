@@ -1,5 +1,5 @@
 pdf:
 	virtualenv .
 	bin/pip install -r requirements.txt
-	bin/rst2pdf proposal.rst
+	bin/rst2pdf README.rst -o proposal.pdf
 	git commit -a -m "Update"; git push
