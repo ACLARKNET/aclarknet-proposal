@@ -14,19 +14,22 @@ Bethesda, MD, USA
 |
 |
 
-Proposal Prepared For:
-----------------------
+Proposal For:
+-------------
 
-**Your Business**
+.. class:: center
 
+    **Your Business**
 
 |
 |
 
-Re:
+Subject:
 --------------------------------------------------------------------------
 
-**Your Needs**
+.. class:: center
+
+    **Your Needs**
 
 |
 |
