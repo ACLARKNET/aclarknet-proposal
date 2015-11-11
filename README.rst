@@ -83,24 +83,24 @@ Past Performance References
 +-------+-----------------------------+-----------------------+----------------------------------------+-------------------------+---------------------------+
 
 Extent & Nature of Services
----------------------------
+~~~~~~~~~~~~~~~~~~~~~~~~~~~
 
 Client 1
-~~~~~~~~
+''''''''
 
 Dynamically benchmark ubiquitous alignments after resource maximizing vortals. Distinctively leverage other's timely imperatives rather than out-of-the-box technology. Authoritatively empower installed base bandwidth without parallel strategic theme areas. 
 
 Monotonectally cultivate inexpensive communities and proactive "outside the box" thinking. Enthusiastically engineer vertical paradigms whereas future-proof bandwidth. Compellingly exploit cross functional methods of empowerment via resource-leveling technology.
 
 Client 2
-~~~~~~~~
+''''''''
 
 Dynamically benchmark ubiquitous alignments after resource maximizing vortals. Distinctively leverage other's timely imperatives rather than out-of-the-box technology. Authoritatively empower installed base bandwidth without parallel strategic theme areas. 
 
 Monotonectally cultivate inexpensive communities and proactive "outside the box" thinking. Enthusiastically engineer vertical paradigms whereas future-proof bandwidth. Compellingly exploit cross functional methods of empowerment via resource-leveling technology.
 
 Client 3
-~~~~~~~~
+''''''''
 
 Dynamically benchmark ubiquitous alignments after resource maximizing vortals. Distinctively leverage other's timely imperatives rather than out-of-the-box technology. Authoritatively empower installed base bandwidth without parallel strategic theme areas. 
 
