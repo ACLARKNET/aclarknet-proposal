@@ -39,7 +39,7 @@ Subject:
 |
 |
 
-- **Point of contact for contractual questions:**
+- **Point of contact for financial and legal issues:**
 
   - Amy Clark
   - Partner, Business Coordinator
@@ -48,7 +48,7 @@ Subject:
 |
 |
 
-- **Point of contact for technical questions:**
+- **Point of contact for technical issues:**
 
   - Alex Clark
   - Partner, President
