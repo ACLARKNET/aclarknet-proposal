@@ -48,7 +48,7 @@ Subject:
 |
 |
 
-- **Point of contact for technical issues:**
+- **Point of contact for technical questions:**
 
   - Alex Clark
   - Partner, President
