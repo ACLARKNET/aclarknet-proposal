@@ -39,7 +39,7 @@ Subject:
 |
 |
 
-- **Point of Contact for contractual and pricing negotiations:**
+- **Point of contact for contractual and pricing questions and negotiations:**
 
   - Amy Clark
   - Partner, Business Coordinator
@@ -48,7 +48,7 @@ Subject:
 |
 |
 
-- **Point of Contact for technical questions and negotiations:**
+- **Point of contact for technical questions:**
 
   - Alex Clark
   - Partner, President
