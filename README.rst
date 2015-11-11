@@ -39,7 +39,7 @@ Subject:
 |
 |
 
-- **Point of contact for contractual and pricing questions:**
+- **Point of contact for contractual questions:**
 
   - Amy Clark
   - Partner, Business Coordinator
