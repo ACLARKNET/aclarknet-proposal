@@ -65,10 +65,6 @@ Subject:
 | **Date:**                              |                                    | 
 +----------------------------------------+------------------------------------+
 
-.. raw:: pdf
-
-   PageBreak
-
 Past Performance References
 ---------------------------
 
@@ -135,14 +131,6 @@ Alex Clark, Lead Developer & Project Manager
 
 **Alex Clark** has a Bachelor of Science in Computer Science from Loyola University in Maryland and has worked professionally as a System Administrator, Network Engineer and Software Engineer since 1998.
 
-.. class:: center
-
-    **1.**
-
-.. raw:: pdf
-
-    PageBreak
-
 Technical Approach
 ------------------
 
@@ -167,42 +155,6 @@ Dynamically benchmark ubiquitous alignments after resource maximizing vortals. D
 
 Monotonectally cultivate inexpensive communities and proactive "outside the box" thinking. Enthusiastically engineer vertical paradigms whereas future-proof bandwidth. Compellingly exploit cross functional methods of empowerment via resource-leveling technology.
 
-|
-|
-|
-
-|
-|
-|
-
-|
-|
-|
-
-|
-|
-|
-
-|
-|
-|
-
-|
-|
-|
-
-|
-|
-|
-
-.. class:: center
-
-    **2.**
-
-.. raw:: pdf
-
-   PageBreak
-
 Pricing Schedule
 ----------------
 
@@ -215,11 +167,3 @@ Pricing Schedule
 +-----------+-----------------------------------------------------+------------------------+
 | **8**     |                                                     |                        |
 +-----------+-----------------------------------------------------+------------------------+
-
-.. class:: center
-
-    **3.**
-
-.. raw:: pdf
-
-   PageBreak
