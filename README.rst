@@ -110,6 +110,31 @@ Monotonectally cultivate inexpensive communities and proactive "outside the box"
 |
 |
 
+Management Background & Oversight
+~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~~
+
+Amy Clark, Business Coordinator
+'''''''''''''''''''''''''''''''
+
+|
+
+.. image:: amy-may-2003.png
+
+|
+
+**Amy Clark** brings many years of professional sales, marketing, management, administrative and financial/legal experience to the ACLARK.NET, LLC team. She facilitates the smooth and uncomplicated engagement of our services and ensures the quality, accuracy and efficiency of all ACLARK.NET, LLC client accounts.
+
+Alex Clark, Lead Developer & Project Manager
+''''''''''''''''''''''''''''''''''''''''''''
+
+|
+
+.. image:: aclark-jobs-75-100.jpg
+
+|
+
+**Alex Clark** has a Bachelor of Science in Computer Science from Loyola University in Maryland and has worked professionally as a System Administrator, Network Engineer and Software Engineer since 1998.
+
 .. class:: center
 
     **1.**
