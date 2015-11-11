@@ -35,7 +35,7 @@ endobj
 << /Outlines 12 0 R /PageLabels 30 0 R /PageMode /UseNone /Pages 25 0 R /Type /Catalog >>
 endobj
 11 0 obj
-<< /Author () /CreationDate (D:20151111130534+05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
+<< /Author () /CreationDate (D:20151111130616+05'00') /Creator (\(unspecified\)) /Keywords () /Producer (ReportLab PDF Library - www.reportlab.com) /Subject (\(unspecified\)) 
   /Title (ACLARK.NET, LLC) >>
 endobj
 12 0 obj
@@ -83,7 +83,7 @@ endobj
 << /Count 4 /Kids [ 6 0 R 7 0 R 8 0 R 9 0 R ] /Type /Pages >>
 endobj
 26 0 obj
-<< /Length 6900 >>
+<< /Length 6888 >>
 stream
 1 0 0 1 0 0 cm  BT /F1 12 Tf 14.4 TL ET
 q
@@ -275,7 +275,8 @@ Q
 q
 1 0 0 1 23 51 cm
 q
-BT 1 0 0 1 0 2 Tm 12 TL /F2 10 Tf 0 0 0 rg (Point of contact for contractual & pricing questions & negotiations:) Tj T* ET
+0 0 0 rg
+BT 1 0 0 1 0 2 Tm /F2 10 Tf 12 TL (Point of contact for contractual and pricing questions:) Tj T* ET
 Q
 Q
 q
@@ -1189,19 +1190,19 @@ xref
 0000003421 00000 n
 0000003541 00000 n
 0000003622 00000 n
-0000010579 00000 n
-0000015750 00000 n
-0000021519 00000 n
-0000023066 00000 n
-0000023137 00000 n
-0000023174 00000 n
-0000023211 00000 n
-0000023248 00000 n
+0000010567 00000 n
+0000015738 00000 n
+0000021507 00000 n
+0000023054 00000 n
+0000023125 00000 n
+0000023162 00000 n
+0000023199 00000 n
+0000023236 00000 n
 trailer
 << /ID 
  % ReportLab generated PDF document -- digest (http://www.reportlab.com)
- [(T\273]\343\2224\200k\340l\004Ey\271\3260) (T\273]\343\2224\200k\340l\004Ey\271\3260)]
+ [(N\347\225~8\240\372\271\240Y\2223\342\336\024\274) (N\347\225~8\240\372\271\240Y\2223\342\336\024\274)]
  /Info 11 0 R /Root 10 0 R /Size 35 >>
 startxref
-23285
+23273
 %%EOF
