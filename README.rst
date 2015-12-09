@@ -1,10 +1,4 @@
-ACLARK.NET, LLC
-===============
-
-Bethesda, MD, USA
-+++++++++++++++++
-
-|
+.. image:: logo.png
 
 .. class:: center
 
@@ -15,7 +9,7 @@ Bethesda, MD, USA
 |
 
 Proposal For:
--------------
+=============
 
 .. class:: center
 
