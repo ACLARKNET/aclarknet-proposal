@@ -13,7 +13,7 @@ Proposal For:
 
 .. class:: center
 
-    **Your Business**
+    Your Business
 
 |
 |
@@ -23,7 +23,7 @@ Subject:
 
 .. class:: center
 
-    **Your Needs**
+    Your Needs
 
 |
 |
